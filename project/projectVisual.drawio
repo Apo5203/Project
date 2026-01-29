@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="Страница-1" id="Xgi1y2cBEz6vlA7wjhYh">
+    <mxGraphModel dx="2253" dy="777" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-3" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontFamily=Times New Roman;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="300" />
+              <mxPoint x="570" y="300" />
+              <mxPoint x="570" y="270" />
+            </Array>
+            <mxPoint x="410" y="380" as="sourcePoint" />
+            <mxPoint x="590" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-5" edge="1" parent="1" source="tmCX1_jQujNnwCl7fYFL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontFamily=Times New Roman;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-7" edge="1" parent="1" source="tmCX1_jQujNnwCl7fYFL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontFamily=Times New Roman;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-14" edge="1" parent="1" source="tmCX1_jQujNnwCl7fYFL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontFamily=Times New Roman;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="tmCX1_jQujNnwCl7fYFL-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="428" />
+            </Array>
+            <mxPoint x="260" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;div&gt;Визуализация учебной информации&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-9" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Понятие визуализации&lt;/span&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="590" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-11" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Графические схемы&lt;/span&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" vertex="1">
+          <mxGeometry height="40" width="115" x="355" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-12" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Электронная наглядность&lt;/span&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="110" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-13" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Роль в обучении&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="270" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=17;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#393C56;" value="Выполнил: Студент группы Апо-25, Садуов Джамал" vertex="1">
+          <mxGeometry height="90" width="170" x="840" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-17" parent="1" style="text;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;" value="├─ Наглядное           представление   информации" vertex="1">
+          <mxGeometry height="50" width="140" x="590" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-18" parent="1" style="text;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;" value="Виды визуализации&#xa; ├─ текстовая&#xa; ├─ табличная&#xa; └─ графическая" vertex="1">
+          <mxGeometry height="50" width="140" x="620" y="469" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-20" parent="1" style="text;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#393C56;" value=" ├─Наглядное представление процессов." vertex="1">
+          <mxGeometry height="51" width="140" x="350" y="539" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-21" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp;├─&amp;nbsp;Упрощают понимание материала&lt;/span&gt;" vertex="1">
+          <mxGeometry height="41" width="130" x="270" y="469" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-22" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;├─&amp;nbsp;Цифровая визуализация информации&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="130" x="110" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-25" edge="1" parent="1" source="tmCX1_jQujNnwCl7fYFL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.436;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="tmCX1_jQujNnwCl7fYFL-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="400" />
+              <mxPoint x="580" y="440" />
+              <mxPoint x="681" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-26" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;fontColor=#393C56;fontSize=20;" value="&lt;h2&gt;2. КОНЦЕПТУАЛЬНАЯ КАРТА&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="78" width="532" y="616" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-27" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#393C56;fontSize=20;fontFamily=Times New Roman;" value="&lt;h2&gt;1. МЕНТАЛЬНАЯ КАРТА (Mind Map)&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="50" width="574" y="146" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-39" edge="1" parent="1" source="tmCX1_jQujNnwCl7fYFL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" target="tmCX1_jQujNnwCl7fYFL-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="" vertex="1">
+          <mxGeometry height="56" width="266" x="19" y="728" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#393C56;fontFamily=Times New Roman;" value="&lt;h3&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Визуализация&lt;/font&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="122" y="734" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="&lt;strong data-start=&quot;0&quot; data-end=&quot;34&quot;&gt;Метод представления информации&lt;/strong&gt; — это &lt;strong data-start=&quot;41&quot; data-end=&quot;91&quot; data-is-only-node=&quot;&quot;&gt;способ организации и подачи учебного материала&lt;/strong&gt;, определяющий форму, структуру и средства его визуализации (текст, таблица, схема, график и др.)." vertex="1">
+          <mxGeometry height="168" width="333" x="-15" y="896" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-40" edge="1" parent="1" source="tmCX1_jQujNnwCl7fYFL-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="541.75" y="896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Графические схемы&lt;/font&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="56" width="271.5" x="406" y="728" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="&lt;strong data-start=&quot;0&quot; data-end=&quot;20&quot;&gt;Ментальные карты&lt;/strong&gt; — это &lt;strong data-start=&quot;27&quot; data-end=&quot;73&quot; data-is-only-node=&quot;&quot;&gt;графический способ визуализации информации&lt;/strong&gt;, при котором учебный материал &lt;strong data-start=&quot;104&quot; data-end=&quot;151&quot;&gt;структурируется вокруг центрального понятия&lt;/strong&gt; и представляется в виде разветвлённой схемы взаимосвязанных идей и понятий." vertex="1">
+          <mxGeometry height="168" width="332" x="375.75" y="896" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="&lt;strong data-start=&quot;0&quot; data-end=&quot;19&quot;&gt;Интерактивность&lt;/strong&gt; — это &lt;strong data-start=&quot;26&quot; data-end=&quot;79&quot; data-is-only-node=&quot;&quot;&gt;свойство учебной информации или средства обучения&lt;/strong&gt;, при котором обучающийся &lt;strong data-start=&quot;105&quot; data-end=&quot;145&quot;&gt;активно взаимодействует с материалом&lt;/strong&gt;, влияя на его содержание, форму или ход изучения." vertex="1">
+          <mxGeometry height="168" width="332" x="765" y="896" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-48" edge="1" parent="1" source="tmCX1_jQujNnwCl7fYFL-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="931" y="896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Электронная наглядность&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="56" width="271.5" x="795.25" y="728" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-49" parent="1" style="text;whiteSpace=wrap;html=1;fontColor=#393C56;fontFamily=Times New Roman;" value="&lt;h1&gt;3. КОГНИТИВНАЯ КАРТА&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="56" width="504" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-50" parent="1" style="text;whiteSpace=wrap;fontColor=#393C56;" value="[Использование визуализации]&#xa;           ↓&#xa;[Структурирование знаний]&#xa;           ↓&#xa;[Лучшее понимание материала]&#xa;           ↓&#xa;[Повышение успеваемости]" vertex="1">
+          <mxGeometry height="126" width="224" x="630" y="1064" as="geometry" />
+        </mxCell>
+        <mxCell id="tmCX1_jQujNnwCl7fYFL-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" value="" vertex="1">
+          <mxGeometry height="88" width="176" x="6" y="1232" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
